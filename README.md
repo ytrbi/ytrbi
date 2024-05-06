@@ -5,8 +5,7 @@
 
 
    <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4600&pause=1000&color=654597&random=false&width=435&lines=Errors+in+your+code+indicate+that+you;intend+to+create+something+significant" alt="Typing SVG" /></a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cartwheeling.png" alt="Woman Cartwheeling" width="60" height="60" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=200&pause=1000&color=654597&background=6545971F&random=false&width=435&height=40&lines=If+you+give+the+world+will+give+you" alt="Typing SVG" /></a>
    </p>
 
 <div align="center">
