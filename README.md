@@ -4,22 +4,17 @@
 
 
 
-   <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=200&pause=1000&color=654597&background=6545971F&random=false&width=435&height=40&lines=If+you+give+the+world+will+give+you" alt="Typing SVG" /></a>
-   </p>
-
-<div align="center">
-
-
+<div align="center"> 
       
-![Chats removebg preview](https://github.com/ytrbi/ytrbi/assets/151997489/b188c239-dc46-4c79-bbae-f86397e80e51)
-
-
 <h1 align="center">Hey there, I'm <a href="https://github.com/ytrbi">YARA</a>
- 
+   
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=200&pause=1000&color=654597&background=6545971F&random=false&width=435&height=40&lines=If+you+give+the+world+will+give+you" alt="Typing SVG" /></a> 
+      
+![Chats removebg preview](https://github.com/ytrbi/ytrbi/assets/151997489/b188c239-dc46-4c79-bbae-f86397e80e51)
 
 </div>
 
