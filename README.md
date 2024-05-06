@@ -55,7 +55,9 @@ const AboutMe = {
 </p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ytrbi&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytrbi&theme=github-compact" alt="Ashutosh's github activity graph">
+    </a>
 
 
 ## GitHub Trophy
