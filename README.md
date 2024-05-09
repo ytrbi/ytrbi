@@ -42,7 +42,7 @@ const AboutMe = {
 
 ## Status
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ytrbi&show_icons=true&count_private=true&hide_border=true&title_color=50CEFF&icon_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" alt="snkfranco github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr0sizer&show_icons=true&count_private=true&hide_border=true&title_color=50CEFF&icon_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" alt="snkfranco github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytrbi&layout=compact&hide_border=true&title_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
@@ -55,14 +55,14 @@ const AboutMe = {
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytrbi&theme=github-compact" alt="Ashutosh's github activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr0sizer&theme=github-compact" alt="Ashutosh's github activity graph">
     </a>
 
 
 ## GitHub Trophy
 <div align="center"
 <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img src="https://github-profile-trophy.vercel.app/?username=ytrbi&theme=discord" alt="trophy" style="max-width: 100%;" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pr0sizer&theme=discord" alt="trophy" style="max-width: 100%;" align="center">
 </a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2d42&height=120&section=footer"/>
