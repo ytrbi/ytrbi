@@ -13,8 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=200&pause=1000&color=654597&background=6545971F&random=false&width=435&height=40&lines=If+you+give+the+world+will+give+you" alt="Typing SVG" /></a> 
+
+<img src="https://github.com/pr0sizar/pr0sizar/assets/151997489/4d81f809-a965-490f-9d65-f4f965be5712" alt="pr0sizar character" align="left" width="20%">
+
       
-![Chats removebg preview](https://github.com/ytrbi/ytrbi/assets/151997489/b188c239-dc46-4c79-bbae-f86397e80e51)
+
+
 
 </div>
 
