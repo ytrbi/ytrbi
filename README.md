@@ -6,7 +6,7 @@
 
 <div align="center"> 
       
-<h1 align="center">Hey there, I'm <a href="https://github.com/ytrbi">YARA</a>
+<h1 align="center">Hello, World!
    
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -40,29 +40,3 @@ const AboutMe = {
 
 
 
-## Status
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr0sizer&show_icons=true&count_private=true&hide_border=true&title_color=50CEFF&icon_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" alt="snkfranco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytrbi&layout=compact&hide_border=true&title_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-
-
-
-</div>
-
-</p>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr0sizer&theme=github-compact" alt="Ashutosh's github activity graph">
-    </a>
-
-
-## GitHub Trophy
-<div align="center"
-<a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img src="https://github-profile-trophy.vercel.app/?username=pr0sizer&theme=discord" alt="trophy" style="max-width: 100%;" align="center">
-</a>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2d42&height=120&section=footer"/>
