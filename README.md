@@ -3,7 +3,6 @@
 
 
 
-
 <div align="center"> 
       
 <h1 align="center">Hello, World!
@@ -38,12 +37,11 @@ const AboutMe = {
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
 
 <p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,cs,typescript,java,mysql,bash,bun,vscode,github,git"> </a> </p>
+     
 
-      
-## Status
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr0sizar&show_icons=true&count_private=true&hide_border=true&title_color=50CEFF&icon_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" alt="snkfranco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0sizar&layout=compact&hide_border=true&title_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" />
+## GitHub Trophy
+<div align="center"
+<a href="https://github.com/ryo-ma/github-profile-trophy" >
+    <img src="https://github-profile-trophy.vercel.app/?username=pr0sizar&theme=dracula" alt="trophy" style="max-width: 100%;" align="center">
+</a>
 </div>
-
-
