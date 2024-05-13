@@ -41,7 +41,7 @@ const AboutMe = {
 ## Status
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr0sizar&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="snkfranco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0sizar&layout=compact&theme=dracula&hide_border=true" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0sizar&layout=compact&theme=dracula&hide_border=true" />
 </div> 
 
 ## GitHub Trophy
