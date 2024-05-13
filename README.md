@@ -37,11 +37,16 @@ const AboutMe = {
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
 
 <p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,cs,typescript,java,mysql,bash,bun,vscode,github,git"> </a> </p>
-     
+
+## Status
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr0sizar&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="snkfranco github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0sizar&layout=compact&theme=dracula&hide_border=true" />
+</div> 
 
 ## GitHub Trophy
 <div align="center"
 <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img src="https://github-profile-trophy.vercel.app/?username=pr0sizar&theme=dracula" alt="trophy" style="max-width: 100%;" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pr0sizar&theme=dracula&hide_border=true" alt="trophy" style="max-width: 100%;" align="center">
 </a>
 </div>
