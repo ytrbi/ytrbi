@@ -16,12 +16,9 @@
 
 <img src="https://github.com/pr0sizar/pr0sizar/assets/151997489/4d81f809-a965-490f-9d65-f4f965be5712" alt="pr0sizar character" align="left" width="20%">
 
-      
-
 
 
 </div>
-
 
 
 
@@ -42,5 +39,11 @@ const AboutMe = {
 
 <p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,cs,typescript,java,mysql,bash,bun,vscode,github,git"> </a> </p>
 
+      
+## Status
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr0sizar&show_icons=true&count_private=true&hide_border=true&title_color=50CEFF&icon_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" alt="snkfranco github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0sizar&layout=compact&hide_border=true&title_color=50CEFF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
