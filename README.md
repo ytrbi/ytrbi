@@ -48,8 +48,8 @@ const AboutMe = {
 [![spotify](https://api.statusbadges.me/badge/spotify/1200487906305904712?style=for-the-badge&labelColor=0D1117)](https://api.statusbadges.me/openspotify/1200487906305904712)
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ytrbi&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="snkfranco github stats" /> 
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytrbi&layout=compact&theme=dracula&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ytrbi&show_icons=true&count_private=true&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" alt="snkfranco github stats" /> 
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytrbi&layout=compact&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" />
 </div> 
 
 ## GitHub Trophy
