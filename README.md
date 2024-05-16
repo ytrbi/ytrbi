@@ -51,11 +51,11 @@ const AboutMe = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ytrbi&show_icons=true&count_private=true&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" alt="snkfranco github stats" /> 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytrbi&layout=compact&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" />
 </div> 
-
+<!--
 ## GitHub Trophy
 <div align="center"
 <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img src="https://github-profile-trophy.vercel.app/?username=ytrbi&theme=dracula&hide_border=true" alt="trophy" style="max-width: 100%;" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ytrbi&theme=onedark&hide_border=true" alt="trophy" style="max-width: 100%;" align="center">
 </a>
-</div>
+</div>-->
 </details>
