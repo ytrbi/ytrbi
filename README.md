@@ -38,7 +38,8 @@ const AboutMe = {
 
 <p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js,react,cs,java,mysql,bash,nodejs,vscode,github,git"> </a> </p>
 
-## Status
+<details>
+  <summary>Github Stats ⚡</summary>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ytrbi&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="snkfranco github stats" /> 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytrbi&layout=compact&theme=dracula&hide_border=true" />
@@ -50,3 +51,4 @@ const AboutMe = {
     <img src="https://github-profile-trophy.vercel.app/?username=ytrbi&theme=dracula&hide_border=true" alt="trophy" style="max-width: 100%;" align="center">
 </a>
 </div>
+</details>
