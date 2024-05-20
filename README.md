@@ -6,7 +6,7 @@
 <div align="center"> 
 
 
-<h1 align="center">Hello, World!
+<h1 align="center">Hello, World!<br>Front-end web developer 
    
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
