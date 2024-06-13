@@ -6,7 +6,7 @@
 <div align="center"> 
 
 
-<h1 align="center">Hello, World!<br>Front-end web developer 
+<h1 align="center"><em>Hello, World!</em><br>Front-end web developer 
    
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
