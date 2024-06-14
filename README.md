@@ -27,7 +27,7 @@ const AboutMe = {
     age: 20,
     degree: "B.S. in Computer Science",
     programmingFocus: "advancing web development skills",
-    familiarity: ["Java", "JavaScript", "React", "C#", "CSS", "Bash"],
+    familiarity: ["Java", "JavaScript", "React.js", "Node.js", "Python", "C#", "CSS", "Bash"],
     role: "front-end developer",
     interests: "Engage with coding and cooperate with fellow hobbyists",
 };
