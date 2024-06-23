@@ -36,7 +36,7 @@ const AboutMe = {
 
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
 
-<p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,jquery,python,cs,java,mysql,bash,github,git,figma,vscode,bun"> </a> </p>
+<p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,jquery,cs,java,mysql,git"> </a> </p>
 <!---->
 <details>
   <summary>Github Stats ⚡</summary>
