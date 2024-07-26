@@ -8,8 +8,8 @@
 
 <h1 align="center"><em>Hello, World!</em><br>Front-end web developer 
    
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F24E1E&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 <!---->
 
@@ -23,29 +23,28 @@
 
 ```javascript
 const AboutMe = {
-    name: "Yara",
+    name: "Yara Alharbi",
     age: 20,
     degree: "B.S. in Computer Science",
     programmingFocus: "advancing web development skills",
-    familiarity: ["Java", "JavaScript", "React.js", "Node.js", "Python", "C#", "CSS"],
-    role: "front-end developer",
-    interests: "Engage with coding and cooperate with fellow hobbyists",
+    familiarity: ["Python", "JavaScript", "React.js", "Node.js", "Java", "C#", "CSS"],
+    role: "front-end web developer",
 };
 ```
 
 
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
 
-<p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,jquery,cs,java,mysql,git"> </a> </p>
+<p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=python,js,react,nodejs,jquery,cs,java,mysql,git,html,css,tailwind"> </a> </p>
 <!---->
 <details>
   <summary>Github Stats ⚡</summary>
    <br>
    <div align="center"> 
       
-![status](https://api.statusbadges.me/badge/status/1200487906305904712?style=for-the-badge&labelColor=0D1117)
+<!-- ![status](https://api.statusbadges.me/badge/status/1200487906305904712?style=for-the-badge&labelColor=0D1117)
 ![vscode](https://api.statusbadges.me/badge/vscode/1200487906305904712?style=for-the-badge&labelColor=0D1117)
-[![spotify](https://api.statusbadges.me/badge/spotify/1200487906305904712?style=for-the-badge&labelColor=0D1117)](https://api.statusbadges.me/openspotify/1200487906305904712)
+[![spotify](https://api.statusbadges.me/badge/spotify/1200487906305904712?style=for-the-badge&labelColor=0D1117)](https://api.statusbadges.me/openspotify/1200487906305904712) -->
 </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ytrbi&show_icons=true&count_private=true&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" alt="snkfranco github stats" /> 
