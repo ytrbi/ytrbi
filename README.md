@@ -6,7 +6,8 @@
 <div align="center"> 
 
 
-<h1 align="center"><em>Hello, World!</em><br>Front-end web developer 
+<h1 align="center"><em>Hello, World! 🌎</em><br>I'm Yara Alharbi, a Front-End Web Developer ✨
+<p></p>
    
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
