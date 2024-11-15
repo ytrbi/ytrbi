@@ -34,6 +34,33 @@ const AboutMe = {
 ```
 
 
+## 🛠️ What I Work With  
+
+I love building stuff and solving problems using:  
+- **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly.  
+- **Backend**: Python (Django), C# (.NET Framework), and Java – the magic behind the curtain.  
+- **Databases**: SQL – because organized data makes everything better.  
+- **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub, and more.   
+
+## 👨‍💻 About Me  
+
+When I’m not coding, I’m probably:  
+- Learning something new (there’s always more to learn, right?)  
+- Tinkering with design tools like Figma  
+- Diving into open-source projects  
+
+I’m all about clean code, user-friendly designs, and solutions that make a difference.  
+
+## 🤝 Let’s Connect!  
+
+I’d love to hear from you, whether it’s feedback on my work, collaboration ideas, or just to say hi. Here’s where you can find me:   
+- **GitHub**: [ytrbi](https://github.com/ytrbi)
+- **LinkedIn**: [in/yaturbi](https://www.linkedin.com/in/yaturbi/)
+
+
+Thanks for stopping by! 😊  
+
+
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
 
 <p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,jquery,cs,java,mysql,git,html,css,tailwind,sass"> </a> </p>
