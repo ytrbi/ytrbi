@@ -25,11 +25,11 @@
 ```javascript
 const AboutMe = {
     name: "Yara Alharbi",
-    age: 20,
+    age: 21,
     degree: "B.S. in Computer Science",
     programmingFocus: "advancing web development skills",
     familiarity: ["Python", "JavaScript", "React.js", "Node.js", "Java", "C#", "CSS"],
-    role: "front-end web developer",
+    role: "web developer",
 };
 ```
 
@@ -37,10 +37,13 @@ const AboutMe = {
 ## 🛠️ What I Work With  
 
 I love building stuff and solving problems using:  
-- **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly.  
-- **Backend**: Python (Django), C# (.NET Framework), and Java – the magic behind the curtain.  
-- **Databases**: SQL – because organized data makes everything better.  
-- **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub, and more.   
+- **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly, 
+- **Backend**: Javascript (Node.js, Bun.js) - I focus on developing scalable and efficient server-side logic,
+- **Databases**: SQL – because organized data makes everything better,
+- **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub,
+- **IDEs**: I primarily work in Neovim, enhancing productivity with its powerful features, alongside using VSCode and Zed Editor for specific tasks,
+- **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems,
+  
 
 ## 👨‍💻 About Me  
 
